@@ -1,4 +1,4 @@
-package com.example.bot2;
+package com.example.bot;
 
 import org.telegram.telegrambots.bots.TelegramLongPollingBot;
 import org.telegram.telegrambots.meta.api.objects.Message;

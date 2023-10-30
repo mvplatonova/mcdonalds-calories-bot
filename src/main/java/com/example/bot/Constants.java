@@ -1,4 +1,4 @@
-package com.example.bot2;
+package com.example.bot;
 
 import java.io.File;
 import java.io.IOException;
