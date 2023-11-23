@@ -1,0 +1,33 @@
+[
+    {
+        "name" : "burgers"
+    },
+    {
+        "name" : "beef",
+        "parent": "burgers"
+    },
+    {
+        "name" : "chicken",
+        "parent": "burgers"
+    },
+    {
+        "name" : "fish",
+        "parent": "burgers"
+    },
+    {
+        "name" : "snacks"
+    },
+    {
+        "name" : "sauces",
+        "parent": "snacks"
+    },
+    {
+        "name" : "beverages"
+    }, 
+    {
+        "name" : "sweets"
+    },
+    {
+        "name" : "breakfast"
+    }
+]
